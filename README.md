@@ -1,3 +1,5 @@
+End-to-End Reinforcement Learning with AWS DeepRacer: Reward-Function Design for Lap-Time Optimization
+
 ## Reward Curves
 
 ![v1 Reward Curve](assets/reward_curve_v1.png)
